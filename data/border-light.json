@@ -1,491 +1,491 @@
 {
   "border": {
     "primary": {
-      "value": "{_global.light.base.comet.100}",
+      "value": "{global.light.base.comet.100}",
       "type": "color"
     },
     "primary-neutral": {
-      "value": "{_global.light.base.background}",
+      "value": "{global.light.base.background}",
       "type": "color"
     },
     "secondary": {
-      "value": "{_global.light.base.ocean.100}",
+      "value": "{global.light.base.ocean.100}",
       "type": "color"
     },
     "secondary-neutral": {
-      "value": "{_global.light.base.comet.100}",
+      "value": "{global.light.base.comet.100}",
       "type": "color"
     },
     "button": {
       "high": {
-        "value": "{_global.light.base.ocean.400}",
+        "value": "{global.light.base.ocean.400}",
         "type": "color"
       },
       "high-neutral": {
-        "value": "{_global.light.base.comet.400}",
+        "value": "{global.light.base.comet.400}",
         "type": "color"
       },
       "medium": {
-        "value": "{_global.light.base.ocean.200}",
+        "value": "{global.light.base.ocean.200}",
         "type": "color"
       },
       "medium-neutral": {
-        "value": "{_global.light.base.comet.200}",
+        "value": "{global.light.base.comet.200}",
         "type": "color"
       },
       "low": {
-        "value": "{_global.light.base.ocean.100}",
+        "value": "{global.light.base.ocean.100}",
         "type": "color"
       },
       "low-neutral": {
-        "value": "{_global.light.base.comet.100}",
+        "value": "{global.light.base.comet.100}",
         "type": "color"
       },
       "success": {
         "high": {
-          "value": "{_global.light.functional.success.400}",
+          "value": "{global.light.functional.success.400}",
           "type": "color"
         },
         "medium": {
-          "value": "{_global.light.functional.success.200}",
+          "value": "{global.light.functional.success.200}",
           "type": "color"
         },
         "low": {
-          "value": "{_global.light.functional.success.100}",
+          "value": "{global.light.functional.success.100}",
           "type": "color"
         }
       },
       "error": {
         "high": {
-          "value": "{_global.light.functional.error.400}",
+          "value": "{global.light.functional.error.400}",
           "type": "color"
         },
         "medium": {
-          "value": "{_global.light.functional.error.200}",
+          "value": "{global.light.functional.error.200}",
           "type": "color"
         },
         "low": {
-          "value": "{_global.light.functional.error.100}",
+          "value": "{global.light.functional.error.100}",
           "type": "color"
         }
       },
       "warning": {
         "high": {
-          "value": "{_global.light.functional.warning.400}",
+          "value": "{global.light.functional.warning.400}",
           "type": "color"
         },
         "medium": {
-          "value": "{_global.light.functional.warning.200}",
+          "value": "{global.light.functional.warning.200}",
           "type": "color"
         },
         "low": {
-          "value": "{_global.light.functional.warning.100}",
+          "value": "{global.light.functional.warning.100}",
           "type": "color"
         }
       },
       "info": {
         "high": {
-          "value": "{_global.light.functional.info.400}",
+          "value": "{global.light.functional.info.400}",
           "type": "color"
         },
         "medium": {
-          "value": "{_global.light.functional.info.200}",
+          "value": "{global.light.functional.info.200}",
           "type": "color"
         },
         "low": {
-          "value": "{_global.light.functional.info.100}",
+          "value": "{global.light.functional.info.100}",
           "type": "color"
         }
       },
       "user1": {
         "high": {
-          "value": "{_global.light.user.scarlet.400}",
+          "value": "{global.light.user.scarlet.400}",
           "type": "color"
         },
         "medium": {
-          "value": "{_global.light.user.scarlet.200}",
+          "value": "{global.light.user.scarlet.200}",
           "type": "color"
         },
         "low": {
-          "value": "{_global.light.user.scarlet.100}",
+          "value": "{global.light.user.scarlet.100}",
           "type": "color"
         }
       },
       "user2": {
         "high": {
-          "value": "{_global.light.user.tangerine.400}",
+          "value": "{global.light.user.tangerine.400}",
           "type": "color"
         },
         "medium": {
-          "value": "{_global.light.user.tangerine.200}",
+          "value": "{global.light.user.tangerine.200}",
           "type": "color"
         },
         "low": {
-          "value": "{_global.light.user.tangerine.100}",
+          "value": "{global.light.user.tangerine.100}",
           "type": "color"
         }
       },
       "user3": {
         "high": {
-          "value": "{_global.light.user.pumpkin.400}",
+          "value": "{global.light.user.pumpkin.400}",
           "type": "color"
         },
         "medium": {
-          "value": "{_global.light.user.pumpkin.200}",
+          "value": "{global.light.user.pumpkin.200}",
           "type": "color"
         },
         "low": {
-          "value": "{_global.light.user.pumpkin.100}",
+          "value": "{global.light.user.pumpkin.100}",
           "type": "color"
         }
       },
       "user4": {
         "high": {
-          "value": "{_global.light.user.sunglow.400}",
+          "value": "{global.light.user.sunglow.400}",
           "type": "color"
         },
         "medium": {
-          "value": "{_global.light.user.sunglow.200}",
+          "value": "{global.light.user.sunglow.200}",
           "type": "color"
         },
         "low": {
-          "value": "{_global.light.user.sunglow.100}",
+          "value": "{global.light.user.sunglow.100}",
           "type": "color"
         }
       },
       "user5": {
         "high": {
-          "value": "{_global.light.user.straw.400}",
+          "value": "{global.light.user.straw.400}",
           "type": "color"
         },
         "medium": {
-          "value": "{_global.light.user.straw.200}",
+          "value": "{global.light.user.straw.200}",
           "type": "color"
         },
         "low": {
-          "value": "{_global.light.user.straw.100}",
+          "value": "{global.light.user.straw.100}",
           "type": "color"
         }
       },
       "user6": {
         "high": {
-          "value": "{_global.light.user.khaki.400}",
+          "value": "{global.light.user.khaki.400}",
           "type": "color"
         },
         "medium": {
-          "value": "{_global.light.user.khaki.200}",
+          "value": "{global.light.user.khaki.200}",
           "type": "color"
         },
         "low": {
-          "value": "{_global.light.user.khaki.100}",
+          "value": "{global.light.user.khaki.100}",
           "type": "color"
         }
       },
       "user7": {
         "high": {
-          "value": "{_global.light.user.pear.400}",
+          "value": "{global.light.user.pear.400}",
           "type": "color"
         },
         "medium": {
-          "value": "{_global.light.user.pear.200}",
+          "value": "{global.light.user.pear.200}",
           "type": "color"
         },
         "low": {
-          "value": "{_global.light.user.pear.100}",
+          "value": "{global.light.user.pear.100}",
           "type": "color"
         }
       },
       "user8": {
         "high": {
-          "value": "{_global.light.user.mantis.400}",
+          "value": "{global.light.user.mantis.400}",
           "type": "color"
         },
         "medium": {
-          "value": "{_global.light.user.mantis.200}",
+          "value": "{global.light.user.mantis.200}",
           "type": "color"
         },
         "low": {
-          "value": "{_global.light.user.mantis.100}",
+          "value": "{global.light.user.mantis.100}",
           "type": "color"
         }
       },
       "user9": {
         "high": {
-          "value": "{_global.light.user.spring.400}",
+          "value": "{global.light.user.spring.400}",
           "type": "color"
         },
         "medium": {
-          "value": "{_global.light.user.spring.200}",
+          "value": "{global.light.user.spring.200}",
           "type": "color"
         },
         "low": {
-          "value": "{_global.light.user.spring.100}",
+          "value": "{global.light.user.spring.100}",
           "type": "color"
         }
       },
       "user10": {
         "high": {
-          "value": "{_global.light.user.jungle.400}",
+          "value": "{global.light.user.jungle.400}",
           "type": "color"
         },
         "medium": {
-          "value": "{_global.light.user.jungle.200}",
+          "value": "{global.light.user.jungle.200}",
           "type": "color"
         },
         "low": {
-          "value": "{_global.light.user.jungle.100}",
+          "value": "{global.light.user.jungle.100}",
           "type": "color"
         }
       },
       "user11": {
         "high": {
-          "value": "{_global.light.user.capri.400}",
+          "value": "{global.light.user.capri.400}",
           "type": "color"
         },
         "medium": {
-          "value": "{_global.light.user.capri.200}",
+          "value": "{global.light.user.capri.200}",
           "type": "color"
         },
         "low": {
-          "value": "{_global.light.user.capri.100}",
+          "value": "{global.light.user.capri.100}",
           "type": "color"
         }
       },
       "user12": {
         "high": {
-          "value": "{_global.light.user.aqua.400}",
+          "value": "{global.light.user.aqua.400}",
           "type": "color"
         },
         "medium": {
-          "value": "{_global.light.user.aqua.200}",
+          "value": "{global.light.user.aqua.200}",
           "type": "color"
         },
         "low": {
-          "value": "{_global.light.user.aqua.100}",
+          "value": "{global.light.user.aqua.100}",
           "type": "color"
         }
       },
       "user13": {
         "high": {
-          "value": "{_global.light.user.picton.400}",
+          "value": "{global.light.user.picton.400}",
           "type": "color"
         },
         "medium": {
-          "value": "{_global.light.user.picton.200}",
+          "value": "{global.light.user.picton.200}",
           "type": "color"
         },
         "low": {
-          "value": "{_global.light.user.picton.100}",
+          "value": "{global.light.user.picton.100}",
           "type": "color"
         }
       },
       "user14": {
         "high": {
-          "value": "{_global.light.user.sky.400}",
+          "value": "{global.light.user.sky.400}",
           "type": "color"
         },
         "medium": {
-          "value": "{_global.light.user.sky.200}",
+          "value": "{global.light.user.sky.200}",
           "type": "color"
         },
         "low": {
-          "value": "{_global.light.user.sky.100}",
+          "value": "{global.light.user.sky.100}",
           "type": "color"
         }
       },
       "user15": {
         "high": {
-          "value": "{_global.light.user.horizon.400}",
+          "value": "{global.light.user.horizon.400}",
           "type": "color"
         },
         "medium": {
-          "value": "{_global.light.user.horizon.200}",
+          "value": "{global.light.user.horizon.200}",
           "type": "color"
         },
         "low": {
-          "value": "{_global.light.user.horizon.100}",
+          "value": "{global.light.user.horizon.100}",
           "type": "color"
         }
       },
       "user16": {
         "high": {
-          "value": "{_global.light.user.aero.400}",
+          "value": "{global.light.user.aero.400}",
           "type": "color"
         },
         "medium": {
-          "value": "{_global.light.user.aero.200}",
+          "value": "{global.light.user.aero.200}",
           "type": "color"
         },
         "low": {
-          "value": "{_global.light.user.aero.100}",
+          "value": "{global.light.user.aero.100}",
           "type": "color"
         }
       },
       "user17": {
         "high": {
-          "value": "{_global.light.user.pigeon.400}",
+          "value": "{global.light.user.pigeon.400}",
           "type": "color"
         },
         "medium": {
-          "value": "{_global.light.user.pigeon.200}",
+          "value": "{global.light.user.pigeon.200}",
           "type": "color"
         },
         "low": {
-          "value": "{_global.light.user.pigeon.100}",
+          "value": "{global.light.user.pigeon.100}",
           "type": "color"
         }
       },
       "user18": {
         "high": {
-          "value": "{_global.light.user.lapis.400}",
+          "value": "{global.light.user.lapis.400}",
           "type": "color"
         },
         "medium": {
-          "value": "{_global.light.user.lapis.200}",
+          "value": "{global.light.user.lapis.200}",
           "type": "color"
         },
         "low": {
-          "value": "{_global.light.user.lapis.100}",
+          "value": "{global.light.user.lapis.100}",
           "type": "color"
         }
       },
       "user19": {
         "high": {
-          "value": "{_global.light.user.lilac.400}",
+          "value": "{global.light.user.lilac.400}",
           "type": "color"
         },
         "medium": {
-          "value": "{_global.light.user.lilac.200}",
+          "value": "{global.light.user.lilac.200}",
           "type": "color"
         },
         "low": {
-          "value": "{_global.light.user.lilac.100}",
+          "value": "{global.light.user.lilac.100}",
           "type": "color"
         }
       },
       "user20": {
         "high": {
-          "value": "{_global.light.user.lavender.400}",
+          "value": "{global.light.user.lavender.400}",
           "type": "color"
         },
         "medium": {
-          "value": "{_global.light.user.lavender.200}",
+          "value": "{global.light.user.lavender.200}",
           "type": "color"
         },
         "low": {
-          "value": "{_global.light.user.lavender.100}",
+          "value": "{global.light.user.lavender.100}",
           "type": "color"
         }
       },
       "user21": {
         "high": {
-          "value": "{_global.light.user.orchid.400}",
+          "value": "{global.light.user.orchid.400}",
           "type": "color"
         },
         "medium": {
-          "value": "{_global.light.user.orchid.200}",
+          "value": "{global.light.user.orchid.200}",
           "type": "color"
         },
         "low": {
-          "value": "{_global.light.user.orchid.100}",
+          "value": "{global.light.user.orchid.100}",
           "type": "color"
         }
       },
       "user22": {
         "high": {
-          "value": "{_global.light.user.iris.400}",
+          "value": "{global.light.user.iris.400}",
           "type": "color"
         },
         "medium": {
-          "value": "{_global.light.user.iris.200}",
+          "value": "{global.light.user.iris.200}",
           "type": "color"
         },
         "low": {
-          "value": "{_global.light.user.iris.100}",
+          "value": "{global.light.user.iris.100}",
           "type": "color"
         }
       },
       "user23": {
         "high": {
-          "value": "{_global.light.user.candy.400}",
+          "value": "{global.light.user.candy.400}",
           "type": "color"
         },
         "medium": {
-          "value": "{_global.light.user.candy.200}",
+          "value": "{global.light.user.candy.200}",
           "type": "color"
         },
         "low": {
-          "value": "{_global.light.user.candy.100}",
+          "value": "{global.light.user.candy.100}",
           "type": "color"
         }
       },
       "user24": {
         "high": {
-          "value": "{_global.light.user.mandy.400}",
+          "value": "{global.light.user.mandy.400}",
           "type": "color"
         },
         "medium": {
-          "value": "{_global.light.user.mandy.200}",
+          "value": "{global.light.user.mandy.200}",
           "type": "color"
         },
         "low": {
-          "value": "{_global.light.user.mandy.100}",
+          "value": "{global.light.user.mandy.100}",
           "type": "color"
         }
       },
       "user25": {
         "high": {
-          "value": "{_global.light.user.cerise.400}",
+          "value": "{global.light.user.cerise.400}",
           "type": "color"
         },
         "medium": {
-          "value": "{_global.light.user.cerise.200}",
+          "value": "{global.light.user.cerise.200}",
           "type": "color"
         },
         "low": {
-          "value": "{_global.light.user.cerise.100}",
+          "value": "{global.light.user.cerise.100}",
           "type": "color"
         }
       },
       "user26": {
         "high": {
-          "value": "{_global.light.user.blush.400}",
+          "value": "{global.light.user.blush.400}",
           "type": "color"
         },
         "medium": {
-          "value": "{_global.light.user.blush.200}",
+          "value": "{global.light.user.blush.200}",
           "type": "color"
         },
         "low": {
-          "value": "{_global.light.user.blush.100}",
+          "value": "{global.light.user.blush.100}",
           "type": "color"
         }
       },
       "user27": {
         "high": {
-          "value": "{_global.light.user.rose.400}",
+          "value": "{global.light.user.rose.400}",
           "type": "color"
         },
         "medium": {
-          "value": "{_global.light.user.rose.200}",
+          "value": "{global.light.user.rose.200}",
           "type": "color"
         },
         "low": {
-          "value": "{_global.light.user.rose.100}",
+          "value": "{global.light.user.rose.100}",
           "type": "color"
         }
       },
       "user28": {
         "high": {
-          "value": "{_global.light.user.crimson.400}",
+          "value": "{global.light.user.crimson.400}",
           "type": "color"
         },
         "medium": {
-          "value": "{_global.light.user.crimson.200}",
+          "value": "{global.light.user.crimson.200}",
           "type": "color"
         },
         "low": {
-          "value": "{_global.light.user.crimson.100}",
+          "value": "{global.light.user.crimson.100}",
           "type": "color"
         }
       }

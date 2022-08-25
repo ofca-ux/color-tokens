@@ -1,943 +1,943 @@
 {
   "text": {
     "primary-neutral": {
-      "value": "{_global.dark.base.comet.700}",
+      "value": "{global.dark.base.comet.700}",
       "type": "color",
       "text": {
-        "value": "{_global.dark.base.white}",
+        "value": "{global.dark.base.white}",
         "type": "color"
       }
     },
     "secondary-neutral": {
-      "value": "{_global.dark.base.comet.600}",
+      "value": "{global.dark.base.comet.600}",
       "type": "color"
     },
     "tertiary-neutral": {
-      "value": "{_global.dark.base.comet.500}",
+      "value": "{global.dark.base.comet.500}",
       "type": "color"
     },
     "link-neutral": {
-      "value": "{_global.dark.base.comet.600}",
+      "value": "{global.dark.base.comet.600}",
       "type": "color"
     },
     "primary": {
-      "value": "{_global.dark.base.ocean.700}",
+      "value": "{global.dark.base.ocean.700}",
       "type": "color",
       "text": {
-        "value": "{_global.dark.base.white}",
+        "value": "{global.dark.base.white}",
         "type": "color"
       }
     },
     "secondary": {
-      "value": "{_global.dark.base.ocean.600}",
+      "value": "{global.dark.base.ocean.600}",
       "type": "color"
     },
     "tertiary": {
-      "value": "{_global.dark.base.ocean.500}",
+      "value": "{global.dark.base.ocean.500}",
       "type": "color"
     },
     "link": {
-      "value": "{_global.dark.base.ocean.500}",
+      "value": "{global.dark.base.ocean.500}",
       "type": "color"
     },
     "destructive": {
-      "value": "{_global.dark.functional.error.500}",
+      "value": "{global.dark.functional.error.500}",
       "type": "color"
     },
     "success": {
       "primary": {
-        "value": "{_global.dark.functional.success.700}",
+        "value": "{global.dark.functional.success.700}",
         "type": "color"
       },
       "secondary": {
-        "value": "{_global.dark.functional.success.600}",
+        "value": "{global.dark.functional.success.600}",
         "type": "color"
       },
       "tertiary": {
-        "value": "{_global.dark.functional.success.500}",
+        "value": "{global.dark.functional.success.500}",
         "type": "color"
       }
     },
     "error": {
       "primary": {
-        "value": "{_global.dark.functional.error.700}",
+        "value": "{global.dark.functional.error.700}",
         "type": "color"
       },
       "secondary": {
-        "value": "{_global.dark.functional.error.600}",
+        "value": "{global.dark.functional.error.600}",
         "type": "color"
       },
       "tertiary": {
-        "value": "{_global.dark.functional.error.500}",
+        "value": "{global.dark.functional.error.500}",
         "type": "color"
       }
     },
     "warning": {
       "primary": {
-        "value": "{_global.dark.functional.warning.700}",
+        "value": "{global.dark.functional.warning.700}",
         "type": "color"
       },
       "secondary": {
-        "value": "{_global.dark.functional.warning.600}",
+        "value": "{global.dark.functional.warning.600}",
         "type": "color"
       },
       "tertiary": {
-        "value": "{_global.dark.functional.warning.500}",
+        "value": "{global.dark.functional.warning.500}",
         "type": "color"
       }
     },
     "info": {
       "primary": {
-        "value": "{_global.dark.functional.info.700}",
+        "value": "{global.dark.functional.info.700}",
         "type": "color"
       },
       "secondary": {
-        "value": "{_global.dark.functional.info.600}",
+        "value": "{global.dark.functional.info.600}",
         "type": "color"
       },
       "tertiary": {
-        "value": "{_global.dark.functional.info.500}",
+        "value": "{global.dark.functional.info.500}",
         "type": "color"
       }
     },
     "user1": {
       "primary": {
-        "value": "{_global.dark.user.scarlet.700}",
+        "value": "{global.dark.user.scarlet.700}",
         "type": "color"
       },
       "secondary": {
-        "value": "{_global.dark.user.scarlet.600}",
+        "value": "{global.dark.user.scarlet.600}",
         "type": "color"
       },
       "tertiary": {
-        "value": "{_global.dark.user.scarlet.500}",
+        "value": "{global.dark.user.scarlet.500}",
         "type": "color"
       },
       "username": {
-        "value": "{_global.dark.user.scarlet.500}",
+        "value": "{global.dark.user.scarlet.500}",
         "type": "color"
       }
     },
     "user2": {
       "primary": {
-        "value": "{_global.dark.user.tangerine.700}",
+        "value": "{global.dark.user.tangerine.700}",
         "type": "color"
       },
       "secondary": {
-        "value": "{_global.dark.user.tangerine.600}",
+        "value": "{global.dark.user.tangerine.600}",
         "type": "color"
       },
       "tertiary": {
-        "value": "{_global.dark.user.tangerine.500}",
+        "value": "{global.dark.user.tangerine.500}",
         "type": "color"
       },
       "username": {
-        "value": "{_global.dark.user.tangerine.500}",
+        "value": "{global.dark.user.tangerine.500}",
         "type": "color"
       }
     },
     "user3": {
       "primary": {
-        "value": "{_global.dark.user.pumpkin.700}",
+        "value": "{global.dark.user.pumpkin.700}",
         "type": "color"
       },
       "secondary": {
-        "value": "{_global.dark.user.pumpkin.600}",
+        "value": "{global.dark.user.pumpkin.600}",
         "type": "color"
       },
       "tertiary": {
-        "value": "{_global.dark.user.pumpkin.500}",
+        "value": "{global.dark.user.pumpkin.500}",
         "type": "color"
       },
       "username": {
-        "value": "{_global.dark.user.pumpkin.500}",
+        "value": "{global.dark.user.pumpkin.500}",
         "type": "color"
       }
     },
     "user4": {
       "primary": {
-        "value": "{_global.dark.user.sunglow.700}",
+        "value": "{global.dark.user.sunglow.700}",
         "type": "color"
       },
       "secondary": {
-        "value": "{_global.dark.user.sunglow.600}",
+        "value": "{global.dark.user.sunglow.600}",
         "type": "color"
       },
       "tertiary": {
-        "value": "{_global.dark.user.sunglow.500}",
+        "value": "{global.dark.user.sunglow.500}",
         "type": "color"
       },
       "username": {
-        "value": "{_global.dark.user.sunglow.500}",
+        "value": "{global.dark.user.sunglow.500}",
         "type": "color"
       }
     },
     "user5": {
       "primary": {
-        "value": "{_global.dark.user.straw.700}",
+        "value": "{global.dark.user.straw.700}",
         "type": "color"
       },
       "secondary": {
-        "value": "{_global.dark.user.straw.600}",
+        "value": "{global.dark.user.straw.600}",
         "type": "color"
       },
       "tertiary": {
-        "value": "{_global.dark.user.straw.500}",
+        "value": "{global.dark.user.straw.500}",
         "type": "color"
       },
       "username": {
-        "value": "{_global.dark.user.straw.500}",
+        "value": "{global.dark.user.straw.500}",
         "type": "color"
       }
     },
     "user6": {
       "primary": {
-        "value": "{_global.dark.user.khaki.700}",
+        "value": "{global.dark.user.khaki.700}",
         "type": "color"
       },
       "secondary": {
-        "value": "{_global.dark.user.khaki.600}",
+        "value": "{global.dark.user.khaki.600}",
         "type": "color"
       },
       "tertiary": {
-        "value": "{_global.dark.user.khaki.500}",
+        "value": "{global.dark.user.khaki.500}",
         "type": "color"
       },
       "username": {
-        "value": "{_global.dark.user.khaki.500}",
+        "value": "{global.dark.user.khaki.500}",
         "type": "color"
       }
     },
     "user7": {
       "primary": {
-        "value": "{_global.dark.user.pear.700}",
+        "value": "{global.dark.user.pear.700}",
         "type": "color"
       },
       "secondary": {
-        "value": "{_global.dark.user.pear.600}",
+        "value": "{global.dark.user.pear.600}",
         "type": "color"
       },
       "tertiary": {
-        "value": "{_global.dark.user.pear.500}",
+        "value": "{global.dark.user.pear.500}",
         "type": "color"
       },
       "username": {
-        "value": "{_global.dark.user.pear.500}",
+        "value": "{global.dark.user.pear.500}",
         "type": "color"
       }
     },
     "user8": {
       "primary": {
-        "value": "{_global.dark.user.mantis.700}",
+        "value": "{global.dark.user.mantis.700}",
         "type": "color"
       },
       "secondary": {
-        "value": "{_global.dark.user.mantis.600}",
+        "value": "{global.dark.user.mantis.600}",
         "type": "color"
       },
       "tertiary": {
-        "value": "{_global.dark.user.mantis.500}",
+        "value": "{global.dark.user.mantis.500}",
         "type": "color"
       },
       "username": {
-        "value": "{_global.dark.user.mantis.500}",
+        "value": "{global.dark.user.mantis.500}",
         "type": "color"
       }
     },
     "user9": {
       "primary": {
-        "value": "{_global.dark.user.spring.700}",
+        "value": "{global.dark.user.spring.700}",
         "type": "color"
       },
       "secondary": {
-        "value": "{_global.dark.user.spring.600}",
+        "value": "{global.dark.user.spring.600}",
         "type": "color"
       },
       "tertiary": {
-        "value": "{_global.dark.user.spring.500}",
+        "value": "{global.dark.user.spring.500}",
         "type": "color"
       },
       "username": {
-        "value": "{_global.dark.user.spring.500}",
+        "value": "{global.dark.user.spring.500}",
         "type": "color"
       }
     },
     "user10": {
       "primary": {
-        "value": "{_global.dark.user.jungle.700}",
+        "value": "{global.dark.user.jungle.700}",
         "type": "color"
       },
       "secondary": {
-        "value": "{_global.dark.user.jungle.600}",
+        "value": "{global.dark.user.jungle.600}",
         "type": "color"
       },
       "tertiary": {
-        "value": "{_global.dark.user.jungle.500}",
+        "value": "{global.dark.user.jungle.500}",
         "type": "color"
       },
       "username": {
-        "value": "{_global.dark.user.jungle.500}",
+        "value": "{global.dark.user.jungle.500}",
         "type": "color"
       }
     },
     "user11": {
       "primary": {
-        "value": "{_global.dark.user.capri.700}",
+        "value": "{global.dark.user.capri.700}",
         "type": "color"
       },
       "secondary": {
-        "value": "{_global.dark.user.capri.600}",
+        "value": "{global.dark.user.capri.600}",
         "type": "color"
       },
       "tertiary": {
-        "value": "{_global.dark.user.capri.500}",
+        "value": "{global.dark.user.capri.500}",
         "type": "color"
       },
       "username": {
-        "value": "{_global.dark.user.capri.500}",
+        "value": "{global.dark.user.capri.500}",
         "type": "color"
       }
     },
     "user12": {
       "primary": {
-        "value": "{_global.dark.user.aqua.700}",
+        "value": "{global.dark.user.aqua.700}",
         "type": "color"
       },
       "secondary": {
-        "value": "{_global.dark.user.aqua.600}",
+        "value": "{global.dark.user.aqua.600}",
         "type": "color"
       },
       "tertiary": {
-        "value": "{_global.dark.user.aqua.500}",
+        "value": "{global.dark.user.aqua.500}",
         "type": "color"
       },
       "username": {
-        "value": "{_global.dark.user.aqua.500}",
+        "value": "{global.dark.user.aqua.500}",
         "type": "color"
       }
     },
     "user13": {
       "primary": {
-        "value": "{_global.dark.user.picton.700}",
+        "value": "{global.dark.user.picton.700}",
         "type": "color"
       },
       "secondary": {
-        "value": "{_global.dark.user.picton.600}",
+        "value": "{global.dark.user.picton.600}",
         "type": "color"
       },
       "tertiary": {
-        "value": "{_global.dark.user.picton.500}",
+        "value": "{global.dark.user.picton.500}",
         "type": "color"
       },
       "username": {
-        "value": "{_global.dark.user.picton.500}",
+        "value": "{global.dark.user.picton.500}",
         "type": "color"
       }
     },
     "user14": {
       "primary": {
-        "value": "{_global.dark.user.sky.700}",
+        "value": "{global.dark.user.sky.700}",
         "type": "color"
       },
       "secondary": {
-        "value": "{_global.dark.user.sky.600}",
+        "value": "{global.dark.user.sky.600}",
         "type": "color"
       },
       "tertiary": {
-        "value": "{_global.dark.user.sky.500}",
+        "value": "{global.dark.user.sky.500}",
         "type": "color"
       },
       "username": {
-        "value": "{_global.dark.user.sky.500}",
+        "value": "{global.dark.user.sky.500}",
         "type": "color"
       }
     },
     "user15": {
       "primary": {
-        "value": "{_global.dark.user.horizon.700}",
+        "value": "{global.dark.user.horizon.700}",
         "type": "color"
       },
       "secondary": {
-        "value": "{_global.dark.user.horizon.600}",
+        "value": "{global.dark.user.horizon.600}",
         "type": "color"
       },
       "tertiary": {
-        "value": "{_global.dark.user.horizon.500}",
+        "value": "{global.dark.user.horizon.500}",
         "type": "color"
       },
       "username": {
-        "value": "{_global.dark.user.horizon.500}",
+        "value": "{global.dark.user.horizon.500}",
         "type": "color"
       }
     },
     "user16": {
       "primary": {
-        "value": "{_global.dark.user.aero.700}",
+        "value": "{global.dark.user.aero.700}",
         "type": "color"
       },
       "secondary": {
-        "value": "{_global.dark.user.aero.600}",
+        "value": "{global.dark.user.aero.600}",
         "type": "color"
       },
       "tertiary": {
-        "value": "{_global.dark.user.aero.500}",
+        "value": "{global.dark.user.aero.500}",
         "type": "color"
       },
       "username": {
-        "value": "{_global.dark.user.aero.500}",
+        "value": "{global.dark.user.aero.500}",
         "type": "color"
       }
     },
     "user17": {
       "primary": {
-        "value": "{_global.dark.user.pigeon.700}",
+        "value": "{global.dark.user.pigeon.700}",
         "type": "color"
       },
       "secondary": {
-        "value": "{_global.dark.user.pigeon.600}",
+        "value": "{global.dark.user.pigeon.600}",
         "type": "color"
       },
       "tertiary": {
-        "value": "{_global.dark.user.pigeon.500}",
+        "value": "{global.dark.user.pigeon.500}",
         "type": "color"
       },
       "username": {
-        "value": "{_global.dark.user.pigeon.500}",
+        "value": "{global.dark.user.pigeon.500}",
         "type": "color"
       }
     },
     "user18": {
       "primary": {
-        "value": "{_global.dark.user.lapis.700}",
+        "value": "{global.dark.user.lapis.700}",
         "type": "color"
       },
       "secondary": {
-        "value": "{_global.dark.user.lapis.600}",
+        "value": "{global.dark.user.lapis.600}",
         "type": "color"
       },
       "tertiary": {
-        "value": "{_global.dark.user.lapis.500}",
+        "value": "{global.dark.user.lapis.500}",
         "type": "color"
       },
       "username": {
-        "value": "{_global.dark.user.lapis.500}",
+        "value": "{global.dark.user.lapis.500}",
         "type": "color"
       }
     },
     "user19": {
       "primary": {
-        "value": "{_global.dark.user.lilac.700}",
+        "value": "{global.dark.user.lilac.700}",
         "type": "color"
       },
       "secondary": {
-        "value": "{_global.dark.user.lilac.600}",
+        "value": "{global.dark.user.lilac.600}",
         "type": "color"
       },
       "tertiary": {
-        "value": "{_global.dark.user.lilac.500}",
+        "value": "{global.dark.user.lilac.500}",
         "type": "color"
       },
       "username": {
-        "value": "{_global.dark.user.lilac.500}",
+        "value": "{global.dark.user.lilac.500}",
         "type": "color"
       }
     },
     "user20": {
       "primary": {
-        "value": "{_global.dark.user.lavender.700}",
+        "value": "{global.dark.user.lavender.700}",
         "type": "color"
       },
       "secondary": {
-        "value": "{_global.dark.user.lavender.600}",
+        "value": "{global.dark.user.lavender.600}",
         "type": "color"
       },
       "tertiary": {
-        "value": "{_global.dark.user.lavender.500}",
+        "value": "{global.dark.user.lavender.500}",
         "type": "color"
       },
       "username": {
-        "value": "{_global.dark.user.lavender.500}",
+        "value": "{global.dark.user.lavender.500}",
         "type": "color"
       }
     },
     "user21": {
       "primary": {
-        "value": "{_global.dark.user.orchid.700}",
+        "value": "{global.dark.user.orchid.700}",
         "type": "color"
       },
       "secondary": {
-        "value": "{_global.dark.user.orchid.600}",
+        "value": "{global.dark.user.orchid.600}",
         "type": "color"
       },
       "tertiary": {
-        "value": "{_global.dark.user.orchid.500}",
+        "value": "{global.dark.user.orchid.500}",
         "type": "color"
       },
       "username": {
-        "value": "{_global.dark.user.orchid.500}",
+        "value": "{global.dark.user.orchid.500}",
         "type": "color"
       }
     },
     "user22": {
       "primary": {
-        "value": "{_global.dark.user.iris.700}",
+        "value": "{global.dark.user.iris.700}",
         "type": "color"
       },
       "secondary": {
-        "value": "{_global.dark.user.iris.600}",
+        "value": "{global.dark.user.iris.600}",
         "type": "color"
       },
       "tertiary": {
-        "value": "{_global.dark.user.iris.500}",
+        "value": "{global.dark.user.iris.500}",
         "type": "color"
       },
       "username": {
-        "value": "{_global.dark.user.iris.500}",
+        "value": "{global.dark.user.iris.500}",
         "type": "color"
       }
     },
     "user23": {
       "primary": {
-        "value": "{_global.dark.user.candy.700}",
+        "value": "{global.dark.user.candy.700}",
         "type": "color"
       },
       "secondary": {
-        "value": "{_global.dark.user.candy.600}",
+        "value": "{global.dark.user.candy.600}",
         "type": "color"
       },
       "tertiary": {
-        "value": "{_global.dark.user.candy.500}",
+        "value": "{global.dark.user.candy.500}",
         "type": "color"
       },
       "username": {
-        "value": "{_global.dark.user.candy.500}",
+        "value": "{global.dark.user.candy.500}",
         "type": "color"
       }
     },
     "user24": {
       "primary": {
-        "value": "{_global.dark.user.mandy.700}",
+        "value": "{global.dark.user.mandy.700}",
         "type": "color"
       },
       "secondary": {
-        "value": "{_global.dark.user.mandy.600}",
+        "value": "{global.dark.user.mandy.600}",
         "type": "color"
       },
       "tertiary": {
-        "value": "{_global.dark.user.mandy.500}",
+        "value": "{global.dark.user.mandy.500}",
         "type": "color"
       },
       "username": {
-        "value": "{_global.dark.user.mandy.500}",
+        "value": "{global.dark.user.mandy.500}",
         "type": "color"
       }
     },
     "user25": {
       "primary": {
-        "value": "{_global.dark.user.cerise.700}",
+        "value": "{global.dark.user.cerise.700}",
         "type": "color"
       },
       "secondary": {
-        "value": "{_global.dark.user.cerise.600}",
+        "value": "{global.dark.user.cerise.600}",
         "type": "color"
       },
       "tertiary": {
-        "value": "{_global.dark.user.cerise.500}",
+        "value": "{global.dark.user.cerise.500}",
         "type": "color"
       },
       "username": {
-        "value": "{_global.dark.user.cerise.500}",
+        "value": "{global.dark.user.cerise.500}",
         "type": "color"
       }
     },
     "user26": {
       "primary": {
-        "value": "{_global.dark.user.blush.700}",
+        "value": "{global.dark.user.blush.700}",
         "type": "color"
       },
       "secondary": {
-        "value": "{_global.dark.user.blush.600}",
+        "value": "{global.dark.user.blush.600}",
         "type": "color"
       },
       "tertiary": {
-        "value": "{_global.dark.user.blush.500}",
+        "value": "{global.dark.user.blush.500}",
         "type": "color"
       },
       "username": {
-        "value": "{_global.dark.user.blush.500}",
+        "value": "{global.dark.user.blush.500}",
         "type": "color"
       }
     },
     "user27": {
       "primary": {
-        "value": "{_global.dark.user.rose.700}",
+        "value": "{global.dark.user.rose.700}",
         "type": "color"
       },
       "secondary": {
-        "value": "{_global.dark.user.rose.600}",
+        "value": "{global.dark.user.rose.600}",
         "type": "color"
       },
       "tertiary": {
-        "value": "{_global.dark.user.rose.500}",
+        "value": "{global.dark.user.rose.500}",
         "type": "color"
       },
       "username": {
-        "value": "{_global.dark.user.rose.500}",
+        "value": "{global.dark.user.rose.500}",
         "type": "color"
       }
     },
     "user28": {
       "primary": {
-        "value": "{_global.dark.user.crimson.700}",
+        "value": "{global.dark.user.crimson.700}",
         "type": "color"
       },
       "secondary": {
-        "value": "{_global.dark.user.crimson.600}",
+        "value": "{global.dark.user.crimson.600}",
         "type": "color"
       },
       "tertiary": {
-        "value": "{_global.dark.user.crimson.500}",
+        "value": "{global.dark.user.crimson.500}",
         "type": "color"
       },
       "username": {
-        "value": "{_global.dark.user.crimson.500}",
+        "value": "{global.dark.user.crimson.500}",
         "type": "color"
       }
     },
     "button": {
       "primary": {
-        "value": "{_global.white}",
+        "value": "{global.white}",
         "type": "color"
       },
       "primary-neutral": {
-        "value": "{_global.white}",
+        "value": "{global.white}",
         "type": "color"
       },
       "secondary": {
-        "value": "{_global.dark.base.ocean.500}",
+        "value": "{global.dark.base.ocean.500}",
         "type": "color"
       },
       "secondary-neutral": {
-        "value": "{_global.dark.base.comet.600}",
+        "value": "{global.dark.base.comet.600}",
         "type": "color"
       },
       "success": {
         "primary": {
-          "value": "{_global.white}",
+          "value": "{global.white}",
           "type": "color"
         },
         "secondary": {
-          "value": "{_global.dark.functional.success.500}",
+          "value": "{global.dark.functional.success.500}",
           "type": "color"
         }
       },
       "error": {
         "primary": {
-          "value": "{_global.white}",
+          "value": "{global.white}",
           "type": "color"
         },
         "secondary": {
-          "value": "{_global.dark.functional.error.500}",
+          "value": "{global.dark.functional.error.500}",
           "type": "color"
         }
       },
       "warning": {
         "primary": {
-          "value": "{_global.white}",
+          "value": "{global.white}",
           "type": "color"
         },
         "secondary": {
-          "value": "{_global.dark.functional.warning.500}",
+          "value": "{global.dark.functional.warning.500}",
           "type": "color"
         }
       },
       "info": {
         "primary": {
-          "value": "{_global.white}",
+          "value": "{global.white}",
           "type": "color"
         },
         "secondary": {
-          "value": "{_global.dark.functional.info.500}",
+          "value": "{global.dark.functional.info.500}",
           "type": "color"
         }
       },
       "user1": {
         "primary": {
-          "value": "{_global.white}",
+          "value": "{global.white}",
           "type": "color"
         },
         "secondary": {
-          "value": "{_global.dark.user.scarlet.600}",
+          "value": "{global.dark.user.scarlet.600}",
           "type": "color"
         }
       },
       "user2": {
         "primary": {
-          "value": "{_global.white}",
+          "value": "{global.white}",
           "type": "color"
         },
         "secondary": {
-          "value": "{_global.dark.user.tangerine.600}",
+          "value": "{global.dark.user.tangerine.600}",
           "type": "color"
         }
       },
       "user3": {
         "primary": {
-          "value": "{_global.white}",
+          "value": "{global.white}",
           "type": "color"
         },
         "secondary": {
-          "value": "{_global.dark.user.pumpkin.600}",
+          "value": "{global.dark.user.pumpkin.600}",
           "type": "color"
         }
       },
       "user4": {
         "primary": {
-          "value": "{_global.white}",
+          "value": "{global.white}",
           "type": "color"
         },
         "secondary": {
-          "value": "{_global.dark.user.sunglow.600}",
+          "value": "{global.dark.user.sunglow.600}",
           "type": "color"
         }
       },
       "user5": {
         "primary": {
-          "value": "{_global.white}",
+          "value": "{global.white}",
           "type": "color"
         },
         "secondary": {
-          "value": "{_global.dark.user.straw.600}",
+          "value": "{global.dark.user.straw.600}",
           "type": "color"
         }
       },
       "user6": {
         "primary": {
-          "value": "{_global.white}",
+          "value": "{global.white}",
           "type": "color"
         },
         "secondary": {
-          "value": "{_global.dark.user.khaki.600}",
+          "value": "{global.dark.user.khaki.600}",
           "type": "color"
         }
       },
       "user7": {
         "primary": {
-          "value": "{_global.white}",
+          "value": "{global.white}",
           "type": "color"
         },
         "secondary": {
-          "value": "{_global.dark.user.pear.600}",
+          "value": "{global.dark.user.pear.600}",
           "type": "color"
         }
       },
       "user8": {
         "primary": {
-          "value": "{_global.white}",
+          "value": "{global.white}",
           "type": "color"
         },
         "secondary": {
-          "value": "{_global.dark.user.mantis.600}",
+          "value": "{global.dark.user.mantis.600}",
           "type": "color"
         }
       },
       "user9": {
         "primary": {
-          "value": "{_global.white}",
+          "value": "{global.white}",
           "type": "color"
         },
         "secondary": {
-          "value": "{_global.dark.user.spring.600}",
+          "value": "{global.dark.user.spring.600}",
           "type": "color"
         }
       },
       "user10": {
         "primary": {
-          "value": "{_global.white}",
+          "value": "{global.white}",
           "type": "color"
         },
         "secondary": {
-          "value": "{_global.dark.user.jungle.600}",
+          "value": "{global.dark.user.jungle.600}",
           "type": "color"
         }
       },
       "user11": {
         "primary": {
-          "value": "{_global.white}",
+          "value": "{global.white}",
           "type": "color"
         },
         "secondary": {
-          "value": "{_global.dark.user.capri.600}",
+          "value": "{global.dark.user.capri.600}",
           "type": "color"
         }
       },
       "user12": {
         "primary": {
-          "value": "{_global.white}",
+          "value": "{global.white}",
           "type": "color"
         },
         "secondary": {
-          "value": "{_global.dark.user.aqua.600}",
+          "value": "{global.dark.user.aqua.600}",
           "type": "color"
         }
       },
       "user13": {
         "primary": {
-          "value": "{_global.white}",
+          "value": "{global.white}",
           "type": "color"
         },
         "secondary": {
-          "value": "{_global.dark.user.picton.600}",
+          "value": "{global.dark.user.picton.600}",
           "type": "color"
         }
       },
       "user14": {
         "primary": {
-          "value": "{_global.white}",
+          "value": "{global.white}",
           "type": "color"
         },
         "secondary": {
-          "value": "{_global.dark.user.sky.600}",
+          "value": "{global.dark.user.sky.600}",
           "type": "color"
         }
       },
       "user15": {
         "primary": {
-          "value": "{_global.white}",
+          "value": "{global.white}",
           "type": "color"
         },
         "secondary": {
-          "value": "{_global.dark.user.horizon.600}",
+          "value": "{global.dark.user.horizon.600}",
           "type": "color"
         }
       },
       "user16": {
         "primary": {
-          "value": "{_global.white}",
+          "value": "{global.white}",
           "type": "color"
         },
         "secondary": {
-          "value": "{_global.dark.user.aero.600}",
+          "value": "{global.dark.user.aero.600}",
           "type": "color"
         }
       },
       "user17": {
         "primary": {
-          "value": "{_global.white}",
+          "value": "{global.white}",
           "type": "color"
         },
         "secondary": {
-          "value": "{_global.dark.user.pigeon.600}",
+          "value": "{global.dark.user.pigeon.600}",
           "type": "color"
         }
       },
       "user18": {
         "primary": {
-          "value": "{_global.white}",
+          "value": "{global.white}",
           "type": "color"
         },
         "secondary": {
-          "value": "{_global.dark.user.lapis.600}",
+          "value": "{global.dark.user.lapis.600}",
           "type": "color"
         }
       },
       "user19": {
         "primary": {
-          "value": "{_global.white}",
+          "value": "{global.white}",
           "type": "color"
         },
         "secondary": {
-          "value": "{_global.dark.user.lilac.600}",
+          "value": "{global.dark.user.lilac.600}",
           "type": "color"
         }
       },
       "user20": {
         "primary": {
-          "value": "{_global.white}",
+          "value": "{global.white}",
           "type": "color"
         },
         "secondary": {
-          "value": "{_global.dark.user.lavender.600}",
+          "value": "{global.dark.user.lavender.600}",
           "type": "color"
         }
       },
       "user21": {
         "primary": {
-          "value": "{_global.white}",
+          "value": "{global.white}",
           "type": "color"
         },
         "secondary": {
-          "value": "{_global.dark.user.orchid.600}",
+          "value": "{global.dark.user.orchid.600}",
           "type": "color"
         }
       },
       "user22": {
         "primary": {
-          "value": "{_global.white}",
+          "value": "{global.white}",
           "type": "color"
         },
         "secondary": {
-          "value": "{_global.dark.user.iris.600}",
+          "value": "{global.dark.user.iris.600}",
           "type": "color"
         }
       },
       "user23": {
         "primary": {
-          "value": "{_global.white}",
+          "value": "{global.white}",
           "type": "color"
         },
         "secondary": {
-          "value": "{_global.dark.user.candy.600}",
+          "value": "{global.dark.user.candy.600}",
           "type": "color"
         }
       },
       "user24": {
         "primary": {
-          "value": "{_global.white}",
+          "value": "{global.white}",
           "type": "color"
         },
         "secondary": {
-          "value": "{_global.dark.user.mandy.600}",
+          "value": "{global.dark.user.mandy.600}",
           "type": "color"
         }
       },
       "user25": {
         "primary": {
-          "value": "{_global.white}",
+          "value": "{global.white}",
           "type": "color"
         },
         "secondary": {
-          "value": "{_global.dark.user.cerise.600}",
+          "value": "{global.dark.user.cerise.600}",
           "type": "color"
         }
       },
       "user26": {
         "primary": {
-          "value": "{_global.white}",
+          "value": "{global.white}",
           "type": "color"
         },
         "secondary": {
-          "value": "{_global.dark.user.blush.600}",
+          "value": "{global.dark.user.blush.600}",
           "type": "color"
         }
       },
       "user27": {
         "primary": {
-          "value": "{_global.white}",
+          "value": "{global.white}",
           "type": "color"
         },
         "secondary": {
-          "value": "{_global.dark.user.rose.600}",
+          "value": "{global.dark.user.rose.600}",
           "type": "color"
         }
       },
       "user28": {
         "primary": {
-          "value": "{_global.white}",
+          "value": "{global.white}",
           "type": "color"
         },
         "secondary": {
-          "value": "{_global.dark.user.crimson.600}",
+          "value": "{global.dark.user.crimson.600}",
           "type": "color"
         }
       }
