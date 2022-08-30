@@ -1610,6 +1610,10 @@
           "description": "FCFCFD"
         }
       }
+    },
+    "white": {
+      "value": "ffffff",
+      "type": "color"
     }
   }
 }

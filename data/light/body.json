@@ -1,34 +1,34 @@
 {
   "body": {
     "background-body": {
-      "value": "{core.light.background}",
+      "value": "{core.background}",
       "type": "color"
     },
     "item": {
       "body-high": {
-        "value": "{core.light.primary.ocean.400}",
+        "value": "{core.primary.ocean.400}",
         "type": "color"
       },
       "body-medium": {
-        "value": "{core.light.primary.ocean.100}",
+        "value": "{core.primary.ocean.100}",
         "type": "color"
       },
       "body-low": {
-        "value": "{core.light.primary.ocean.0}",
+        "value": "{core.primary.ocean.0}",
         "type": "color"
       }
     },
     "neutral": {
       "body-high": {
-        "value": "{core.light.neutral.comet.400}",
+        "value": "{core.neutral.comet.400}",
         "type": "color"
       },
       "body-medium": {
-        "value": "{core.light.neutral.comet.100}",
+        "value": "{core.neutral.comet.100}",
         "type": "color"
       },
       "body-low": {
-        "value": "{core.light.neutral.comet.0}",
+        "value": "{core.neutral.comet.0}",
         "type": "color"
       }
     }

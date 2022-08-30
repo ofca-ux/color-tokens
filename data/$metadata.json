@@ -1,19 +1,18 @@
 {
   "tokenSetOrder": [
-    "core",
     "light/user",
     "light/text",
     "light/body",
     "light/button",
     "light/border",
     "light/functional",
+    "light/core",
     "dark/user",
     "dark/text",
     "dark/body",
     "dark/button",
     "dark/border",
     "dark/functional",
-    "light/core",
     "dark/core"
   ]
 }

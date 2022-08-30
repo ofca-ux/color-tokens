@@ -2,29 +2,29 @@
   "border": {
     "color": {
       "border-high": {
-        "value": "{core.light.primary.ocean.400}",
+        "value": "{core.primary.ocean.400}",
         "type": "color"
       },
       "body-medium": {
-        "value": "{core.light.primary.ocean.200}",
+        "value": "{core.primary.ocean.200}",
         "type": "color"
       },
       "border-low": {
-        "value": "{core.light.primary.ocean.100}",
+        "value": "{core.primary.ocean.100}",
         "type": "color"
       }
     },
     "neutral": {
       "border-high": {
-        "value": "{core.light.neutral.comet.400}",
+        "value": "{core.neutral.comet.400}",
         "type": "color"
       },
       "border-medium": {
-        "value": "{core.light.neutral.comet.200}",
+        "value": "{core.neutral.comet.200}",
         "type": "color"
       },
       "border-low": {
-        "value": "{core.light.neutral.comet.100}",
+        "value": "{core.neutral.comet.100}",
         "type": "color"
       }
     }
