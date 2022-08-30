@@ -1,0 +1,40 @@
+{
+  "text": {
+    "neutral": {
+      "text-high": {
+        "value": "{core.dark.neutral.comet.700}",
+        "type": "color"
+      },
+      "text-medium": {
+        "value": "{core.dark.neutral.comet.600}",
+        "type": "color"
+      },
+      "text-low": {
+        "value": "{core.dark.neutral.comet.500}",
+        "type": "color"
+      }
+    },
+    "item": {
+      "text-high": {
+        "value": "{core.dark.primary.ocean.700}",
+        "type": "color"
+      },
+      "text-medium": {
+        "value": "{core.dark.primary.ocean.600}",
+        "type": "color"
+      },
+      "text-low": {
+        "value": "{core.dark.primary.ocean.500}",
+        "type": "color"
+      }
+    },
+    "text-link": {
+      "value": "{core.dark.primary.ocean.500}",
+      "type": "color"
+    },
+    "text-destructive": {
+      "value": "{core.dark.functional.error.500}",
+      "type": "color"
+    }
+  }
+}

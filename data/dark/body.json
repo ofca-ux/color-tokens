@@ -1,0 +1,36 @@
+{
+  "body": {
+    "background-body": {
+      "value": "{core.dark.background}",
+      "type": "color"
+    },
+    "item": {
+      "body-high": {
+        "value": "{core.dark.primary.ocean.400}",
+        "type": "color"
+      },
+      "body-medium": {
+        "value": "{core.dark.primary.ocean.100}",
+        "type": "color"
+      },
+      "body-low": {
+        "value": "{core.dark.primary.ocean.0}",
+        "type": "color"
+      }
+    },
+    "neutral": {
+      "body-high": {
+        "value": "{core.dark.neutral.comet.400}",
+        "type": "color"
+      },
+      "body-medium": {
+        "value": "{core.dark.neutral.comet.100}",
+        "type": "color"
+      },
+      "body-low": {
+        "value": "{core.dark.neutral.comet.0}",
+        "type": "color"
+      }
+    }
+  }
+}

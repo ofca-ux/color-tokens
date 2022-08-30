@@ -1,11 +1,19 @@
 {
   "tokenSetOrder": [
-    "global",
-    "text-light",
-    "text-dark",
-    "border-light",
-    "border-dark",
-    "body-light",
-    "body-dark"
+    "core",
+    "light/user",
+    "light/text",
+    "light/body",
+    "light/button",
+    "light/border",
+    "light/functional",
+    "dark/user",
+    "dark/text",
+    "dark/body",
+    "dark/button",
+    "dark/border",
+    "dark/functional",
+    "light/core",
+    "dark/core"
   ]
 }

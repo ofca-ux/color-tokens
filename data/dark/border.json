@@ -1,0 +1,32 @@
+{
+  "border": {
+    "color": {
+      "border-high": {
+        "value": "{core.dark.primary.ocean.400}",
+        "type": "color"
+      },
+      "body-medium": {
+        "value": "{core.dark.primary.ocean.200}",
+        "type": "color"
+      },
+      "border-low": {
+        "value": "{core.dark.primary.ocean.100}",
+        "type": "color"
+      }
+    },
+    "neutral": {
+      "border-high": {
+        "value": "{core.dark.neutral.comet.400}",
+        "type": "color"
+      },
+      "border-medium": {
+        "value": "{core.dark.neutral.comet.200}",
+        "type": "color"
+      },
+      "border-low": {
+        "value": "{core.dark.neutral.comet.100}",
+        "type": "color"
+      }
+    }
+  }
+}
